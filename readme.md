@@ -1,6 +1,6 @@
 EFI for Dell OptiPlex 9020 Mini Tower at macOS catalina(10.15.4), base on clover 5070
 
-![系统信息](https://github.com/Cheers0606/EFI-for-dell-OptiPlex-7040/blob/master/systemInfo.png)
+![系统信息](https://github.com/Cheers0606/Dell-OptiPlex-7040/blob/master/systemInfo.png)
 
 
 # 硬件信息
