@@ -1,0 +1,285 @@
+﻿--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.1020.1160.330
+  时间:             2020-04-03 10:59:46
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            戴尔 OptiPlex 7040 台式电脑
+  操作系统            Windows 10 专业版 64位 ( DirectX 12 )
+
+  处理器              英特尔 Core i7-6700 @ 3.40GHz 四核
+  主板                戴尔 0Y7WYT ( 100 Series/C230 Series 芯片组 Family - A146 )
+  显卡                AMD Radeon R5 340X ( 戴尔 )
+  内存                16 GB ( 十铨 DDR4 2133MHz / 海力士 DDR4 2133MHz )
+  主硬盘              西数 WDC WD10EZEX-75WN4A0 ( 1 TB / 7200 转/分 )
+  显示器              飞利浦 PHLC184 PHL 247E9Q ( 24 英寸  )
+  光驱                PLDS DVD+-RW DU-8A5LH DVD刻录机
+  声卡                瑞昱  @ 英特尔 High Definition Audio 控制器
+  网卡                英特尔 Ethernet Connection  I219-LM / 戴尔
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            戴尔 0Y7WYT
+  芯片组              100 Series/C230 Series 芯片组 Family - A146
+  序列号              /HYV6GD2/CN70163668008D/
+  主板版本            A00
+  BIOS版本            戴尔 Inc. 1.6.5  /  BIOS程序发布日期: 05/23/2017
+  BIOS的大小          16384 KB
+
+  板载设备            "Intel HD Graphics" / 视频设备 (启用)
+  板载设备            "Intel LOM" / 网卡 (启用)
+  板载设备            "Intel HD Audio" / 音频设备 (启用)
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 Core i7-6700 @ 3.40GHz 四核
+  速度                3.41 GHz (100 MHz x 34.0)
+  处理器数量          核心数: 4 / 线程数: 8
+  核心代号            Skylake
+  生产工艺            14 纳米
+  插槽/插座           Socket LGA1151
+  一级数据缓存        4 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        4 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            4 x 256 KB, 4-Way, 64 byte lines
+  三级缓存            8 MB, 16-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                西数 WDC WD10EZEX-75WN4A0
+  大小                1 TB
+  转速                7200 转/分
+  缓存                64 MB
+  硬盘已使用          共 37575 次，累计 18764 小时
+  固件                01.01A01
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  DIMM3               十铨 DDR4 2133MHz 4GB
+  制造日期            2016 年 36 周
+  型号                7F7F7F7FEF TEAMGROUP-UD4-2133
+  序列号              01030C20
+  厂商                Team
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+  DIMM1               海力士 DDR4 2133MHz 4GB
+  制造日期            2015 年 46 周
+  型号                AD HMA451U6AFR8N-TF
+  序列号              253D8C39
+  厂商                Hynix
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+  DIMM4               十铨 DDR4 2133MHz 4GB
+  制造日期            2016 年 35 周
+  型号                7F7F7F7FEF TEAMGROUP-UD4-2133
+  序列号              01034FC6
+  厂商                Team
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+  DIMM2               海力士 DDR4 2133MHz 4GB
+  制造日期            2015 年 50 周
+  型号                AD HMA451U6AFR8N-TF
+  序列号              2586C35A
+  厂商                Hynix
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  显卡                英特尔 HD Graphics 530
+  制造商              戴尔
+  制造商              Intel
+  驱动版本            10.0.17134.1
+  驱动日期            20060621
+
+  主显卡              AMD Radeon R5 340X
+  制造商              戴尔
+  制造商              AMD
+  驱动版本            10.0.17134.1
+  驱动日期            20060621
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                飞利浦 PHLC184 PHL 247E9Q
+  厂商                飞利浦
+  固件程序日期        2018 年 23 周 (非显示器制造日期)
+  屏幕尺寸            24 英寸 (53 厘米 x 30 厘米)
+  显示比例            宽屏 16 : 9
+  分辨率              1920 x 1080 32 位真彩色
+  Gamma               2.20
+  电源管理            Active-Off
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+  产品                PLDS DVD+-RW DU-8A5LH DVD刻录机
+  缓存/固件:          512 KB /DD11
+
+  网卡                英特尔 Ethernet Connection  I219-LM
+  制造商              戴尔
+
+  声卡                瑞昱  @ 英特尔 High Definition Audio 控制器
+
+  声卡                瑞昱  @ AMD Radeon HD 7000 Series HDMI Audio
+
+  键盘                HID 标准键盘
+  鼠标                HID-compliant 鼠标
+
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Skylake-S Host Bridge/DRAM Controller
+  设备ID              191F
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                Xeon E3 - 1200/1500 v5/6th Gen Intel Core PCIe Controller  - 1901
+  设备ID              1901
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                HD Graphics 530
+  设备ID              1912
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                USB 3.0 eXtensible Host Controller
+  设备ID              A12F
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                100 Series/C230 Series Chipset Family Thermal subsystem - A131
+  设备ID              A131
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                Management Engine Interface
+  设备ID              A13A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                100 Series/C230 Chipset Family SATA AHCI Controller
+  设备ID              A102
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                100 Series/C230 Series Chipset Family PCI Express Root Port #1 - A110
+  设备ID              A110
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                100 Series/C230 Series Chipset Family LPC Controller - A146
+  设备ID              A146
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                100 Series/C230 Series Chipset Family PMC - A121
+  设备ID              A121
+  制造商              Intel
+  制造商ID            8086
+  类别                Memory / Other
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                High Definition Audio 控制器
+  设备ID              A170
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                100 Series/C230 Series Chipset Family SMBus - A123
+  设备ID              A123
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                Ethernet Connection  I219-LM
+  设备ID              15B7
+  制造商              Intel
+  制造商ID            8086
+  类别                Network / Ethernet
+  子系统制造商        Dell
+  子系统ID            06B91028
+
+  设备                Radeon R5 340X (OLAND)
+  设备ID              6610
+  制造商              AMD
+  制造商ID            1002
+  类别                Display / VGA
+  子系统制造商        Dell
+  子系统ID            00831028
+
+  设备                Radeon HD 7000 Series HDMI Audio
+  设备ID              AAB0
+  制造商              AMD
+  制造商ID            1002
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Dell
+  子系统ID            AAB01028
+
+  设备                PCI 到 PCI 桥
+  设备ID              8240
+  制造商              TI
+  制造商ID            104C
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            275D
+  产品ID              0BA6
+  类别                0 / 0 / 0
+  设备                ? USB OPTICAL MOUSE
+  Serial              ?
+  版本                USB 1.1
+
+  制造商ID            1A2C
+  产品ID              2124
+  类别                0 / 0 / 0
+  设备                SEM? USB Keyboard
+  Serial              ?
+  版本                USB 1.1
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  CPU温度             30℃
+  CPU核心             30℃
+  CPU封装             32℃
+  硬盘温度            32℃
+
